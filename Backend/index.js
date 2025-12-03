@@ -36,7 +36,7 @@ app.get('/api', (req, res) => {
 
 
 // вход пользователя в аппку
-app.post('/enter', async (req, res) => {   
+app.post('/api/enter', async (req, res) => {   
   try {
     const { tlgid } = req.body;
 
