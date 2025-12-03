@@ -7,16 +7,10 @@ const UserSchema = new mongoose.Schema(
       required: true,
       unique: true,
     },
-    jbid: {
-      type: Number,
-    },
-    name: {
+        name: {
       type: String,
     },
-    role: {
-      type: String,
-      default: 'manager'
-    }
+    
     
     
   },
@@ -26,4 +20,5 @@ const UserSchema = new mongoose.Schema(
 );
 
 export default mongoose.model('User', UserSchema);
+
 
