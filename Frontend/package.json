@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://DmitrySobol1.github.io/anyaiapi",
+  "homepage": "https://yourGitHub.github.io/yourApp",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
@@ -49,3 +49,4 @@
     "vite-tsconfig-paths": "^5.1.4"
   }
 }
+
