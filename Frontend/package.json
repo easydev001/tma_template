@@ -1,5 +1,5 @@
 {
-  "name": "anyaiapi",
+  "name": "yourApp",
   "private": true,
   "version": "0.0.1",
   "type": "module",
@@ -18,10 +18,8 @@
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@mui/icons-material": "^7.3.5",
-    "@mui/material": "^7.3.5",
     "@telegram-apps/telegram-ui": "^2.1.9",
-    "@tma.js/sdk-react": "^3.0.7",
-    "@tonconnect/ui-react": "^2.2.0",
+    "@tma.js/sdk-react": "^3.0.7",    
     "eruda": "^3.4.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -49,4 +47,5 @@
     "vite-tsconfig-paths": "^5.1.4"
   }
 }
+
 
